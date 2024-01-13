@@ -31,3 +31,27 @@ The Weather App is designed to fetch and display current weather conditions base
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/jamalashraf5/weather-app.git
+
+   Open in Eclipse:
+
+Import the project into Eclipse IDE.
+API Key:
+
+Obtain an API key from OpenWeatherMap and replace the placeholder in the code.
+Run the Application:
+
+Deploy the application on a servlet container (e.g., Apache Tomcat) and access it through the browser.
+Configuration
+Update the API key in WeatherServlet.java with your OpenWeatherMap API key.
+Customize the application as needed.
+License
+This project is licensed under the MIT License.
+
+Acknowledgments
+OpenWeatherMap for providing the weather data API.
+Iconfinder for icons used in the application.
+Feel free to contribute, report issues, or suggest improvements!
+
+
+Remember to replace placeholders like `yourusername` with your actual GitHub username and update any additional information specific to your project. You can also include sections like "Screenshots," "Demo," or "Contributing Guidelines" based on your app's specific details.
+
